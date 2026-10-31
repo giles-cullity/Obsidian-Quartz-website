@@ -1,0 +1,22 @@
+---
+personal navigation down:
+personal navigation up:
+category (of subcategory):
+facet (of subcategory):
+precise names:
+alternative names:
+time recorded (Obsidian):
+duplicates etc:
+---
+
+| personal navigation down* | • website content<br>    • content exclusions<br>        • declarative content exclusion constraints<br>        • decorative content exclusion constraints<br>    • Effective Altruism content inclusion constraint<br>    • personal projects reasoning content inclusion constraint<br>    • ...<br>• website framework etc modifications<br>    • ...<br>    • accessibility modification constraints<br>        •<br>        • terminology normalization constraints<br>    • PKM-based website constraint<br>    • ...<br>    • timespan reasoning shortcut<br>• other online content<br>    • ...<br>    • ...<br>    • timespan reasoning shortcut |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| category (of subcategory) | [[mid-level constraint stage template planning reasoning]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| precise names             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| alternative names         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| time recorded (Obsidian)  | 2026/08/01/14:31                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+- **provisional description**:
+- **concise description**:
+- **precise description**:
+- **formal description**:
+- * provisional - I'll just start adding things as I think of them then adjust the categories as I go. I'll just write text directly into the menus then add/create the links to the actual files later.

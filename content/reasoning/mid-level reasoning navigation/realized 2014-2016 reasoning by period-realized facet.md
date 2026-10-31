@@ -1,0 +1,19 @@
+---
+subcategories (of category):
+category (of facet):
+precise names:
+alternative names:
+time recorded (Obsidian):
+---
+
+| subcategories (of category) | • [[realized 2016-08-09 reasoning\|realized 2016/08-09 reasoning]]<br>• [[realized 2016-01-07 reasoning\|realized 2016/01-07 reasoning]]<br>• [[realized 2015-06-12 reasoning\|realized 2015/06-12 reasoning]]<br>• [[realized 2015-02-05 reasoning\|realized 2015/02-05 reasoning]]<br>• [[realized 2014-09-2015-01 reasoning\|realized 2014/09-2015/01 reasoning]]<br>• [[realized 2014-02-08 set 1 reasoning\|realized 2014/02-08 reasoning]]<br>• [[period to-be-categorized realized 2014-2016 reasoning]] |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| personal navigation up      | [[realized 2014-2016 set 1 reasoning by other facets]]                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| category (of facet)         | [[realized 2014-2016 reasoning]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| precise names               | • "realized 2014-2016 reasoning by sub-period-realized facet"<br>• "realized 2014-2016 reasoning by level-2-life-period-realized facet"                                                                                                                                                                                                                                                                                                                                                                   |
+| alternative names           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| time recorded (Obsidian)    | 2026/07/17/18:15                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+- **provisional description**:
+- **concise description**:
+- **precise description**:
+- **formal description**:

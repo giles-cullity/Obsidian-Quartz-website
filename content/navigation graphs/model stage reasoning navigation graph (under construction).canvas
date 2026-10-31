@@ -1,0 +1,70 @@
+{
+	"nodes":[
+		{"id":"f2bd26d3d8d17c5d","type":"file","file":"reasoning/high-level reasoning navigation/modelling reasoning.md","x":-480,"y":-240,"width":400,"height":400},
+		{"id":"ec22a363d3d6d145","type":"file","file":"reasoning/high-level reasoning navigation/undirected reasoning.md","x":-1360,"y":-640,"width":400,"height":400},
+		{"id":"e896e064b6b905aa","type":"file","file":"reasoning/mid-level reasoning navigation/model stage reasoning.md","x":320,"y":-640,"width":400,"height":400},
+		{"id":"065e7f18b3335aad","type":"file","file":"reasoning/mid-level reasoning navigation/non-academic model stage reasoning.md","x":1120,"y":-640,"width":400,"height":400},
+		{"id":"1860022b0f8fdde0","type":"file","file":"to-be-reorganized/2026-H2/academic model stage reasoning.md","x":1920,"y":-640,"width":400,"height":400},
+		{"id":"0ab58096a726d934","type":"file","file":"high-level navigation/reasoning.md","x":-2160,"y":-1040,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"28e9c5fa68e9e780",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e896e064b6b905aa",
+			"fromSide":"left",
+			"toNode":"f2bd26d3d8d17c5d",
+			"toSide":"right",
+			"color":"6"
+		},
+		{
+			"id":"5febf6b08c8cc94c",
+			"styleAttributes":{"path":"long-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"065e7f18b3335aad",
+			"fromSide":"bottom",
+			"toNode":"e896e064b6b905aa",
+			"toSide":"right",
+			"color":"6"
+		},
+		{
+			"id":"fd93c43c76eb4e0c",
+			"styleAttributes":{"path":"long-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1860022b0f8fdde0",
+			"fromSide":"bottom",
+			"toNode":"e896e064b6b905aa",
+			"toSide":"right",
+			"color":"6"
+		},
+		{
+			"id":"304f2fb8eaecb50e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f2bd26d3d8d17c5d",
+			"fromSide":"left",
+			"toNode":"ec22a363d3d6d145",
+			"toSide":"right",
+			"color":"6"
+		},
+		{
+			"id":"8672b825bdfff4ac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ec22a363d3d6d145",
+			"fromSide":"left",
+			"toNode":"0ab58096a726d934",
+			"toSide":"right",
+			"color":"6"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

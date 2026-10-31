@@ -1,0 +1,27 @@
+---
+personal navigation down (provisional):
+  - "[[task set reasoning]]"
+  - "[[task sequence reasoning]]"
+personal navigation down:
+personal navigation up:
+facet (of subcategory):
+precise names:
+  - mid-level constraint stage template planning reasoning
+alternative names:
+previous names:
+time recorded (Obsidian):
+unspecified:
+  - "[[2026%01%03 level-2-life-argument-stage facet]]"
+---
+
+| subcategories/members (of category)* | • [[lifting etc mid-level constraint stage template planning reasoning]]<br>• [[website etc mid-level constraint stage template planning reasoning]]<br>• [[artistic projects & relationships mid-level constraint stage template planning reasoning]]<br>    • [[artistic projects mid-level constraint stage template planning reasoning]]<br>    • [[relationships mid-level constraint stage template planning reasoning]]<br>• to-be-categorized<br>    • general<br>        • [[mid-level daily routine constraint stage template planning reasoning]]<br>            • evening outing/social contact constraint<br>            • sunset walk constraint<br>            • sunrise walk constraint<br>            • 4 meals constraint<br>        • mid-level intellectual task choice constraints<br>            • quarterly project rotation constraint |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| category (of subcategory)            | [[constraint stage template planning reasoning]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| alternative names                    | • "mid-level convergence stage template planning reasoning"<br>• "mid-level decision stage template planning reasoning"<br>• "mid-level trade-off stage template planning reasoning"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| time recorded (Obsidian)             | 2025/H2-2026/04                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+- **provisional description**:
+- **concise description**:
+- **precise description**:
+- **formal description**:
+- **other notes (provisional description)**: Note that this has some "high-level constraints" - that refers to the fact that they're high-level decisions within e.g. the style project. But they're mid-level in my whole life so that's why they're in this category.
+- * provisional - I'll just start adding things as I think of them then adjust the categories as I go. I'll just write text directly into the menus then add/create the links to the actual files later.

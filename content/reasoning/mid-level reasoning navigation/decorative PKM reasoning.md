@@ -1,0 +1,26 @@
+---
+personal navigation down:
+personal navigation up:
+category (of subcategory):
+facet (of subcategory):
+precise names:
+alternative names:
+meta of:
+time recorded (File Explorer):
+duplicates etc:
+---
+
+| personal navigation down      | • [[low-level constraint stage decorative PKM reasoning]]<br>• [[mid-level constraint stage decorative PKM reasoning]]<br>• [[high-level constraint stage decorative PKM reasoning]]<br>• [[low-level consideration stage decorative PKM reasoning]]<br>• [[mid-level consideration stage decorative PKM reasoning]]<br>• [[high-level consideration stage decorative PKM reasoning]]<br>• to-be-categorized<br>    • [[decorative ontology-taxonomy reasoning\|decorative ontology/taxonomy reasoning]]<br>• [[decorative PKM reasoning by other facets]] |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| personal navigation up        | • [[PKM reasoning]]<br>• [[decorative content]] (shortcut)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| category (of subcategory)     | • [[PKM reasoning]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| facet (of subcategory)        | PKM reasoning by ... facet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| precise names                 | • "decorative content PKM design reasoning"<br>• ...<br>• ...                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| alternative names             | • ...<br>• ...<br>• ...                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| time recorded (File Explorer) | 2012/12[^1]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+- **provisional description**:
+- **concise description**:
+- **precise description**:
+- **formal description**:
+
+[^1]: started working on this in 2012/12, but didn't divide PKM into decorative content system vs declarative content (reasoning) system. So the folder created in 2012/12 was more like "PKM reasoning" than "decorative content PKM reasoning".

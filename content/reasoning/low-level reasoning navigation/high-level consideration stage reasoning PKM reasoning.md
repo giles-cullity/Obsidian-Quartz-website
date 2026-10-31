@@ -1,0 +1,24 @@
+---
+personal navigation down (provisional):
+  - "[[PKM high-level consideration stage task-questions]]"
+  - "[[PKM high-level consideration stage opinions]]"
+personal navigation up:
+category (of subcategory):
+facet (of subcategory):
+alternative names:
+time recorded (Obsidian):
+duplicates etc:
+---
+
+| personal navigation down  | • opinions<br>    • [[PKM discovery explore functionality consideration opinion]]<br>    • [[PKM discovery search functionality consideration opinion]]<br>    • [[PKM renavigation explore functionality consideration opinion]]<br>    • [[PKM renavigation search functionality consideration opinion]]<br>    • ...<br>    • ...<br>    • [[PKM visualization consideration(s) opinion]]<br>    • [[PKM life-world structure understanding consideration\|PKM 'life/world structure visualization' consideration]]<br>    • [[PKM navigation consideration(s) opinion]]<br>    <br>• questions<br>• ... |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| personal navigation up    | • [[reasoning PKM reasoning]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| category (of subcategory) | • [[mid-level consideration stage reasoning improvement reasoning]]<br>• [[reasoning PKM reasoning]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| facet (of subcategory)    | • [[public/reasoning/mid-level reasoning navigation/reasoning PKM reasoning by argument-stage-level facet]]<br>• ...<br>• ...                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| alternative names         | • ...<br>• ...<br>• ...                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| time recorded (Obsidian)  | 2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+- **provisional description**:
+- **concise description**:
+- **precise description**:
+- **formal description**:
+   

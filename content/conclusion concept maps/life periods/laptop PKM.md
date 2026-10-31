@@ -1,0 +1,27 @@
+---
+subcategories (of category):
+  - "[[dropout-street laptop PKM]]"
+  - "[[Gie City etc laptop PKM]]"
+  - "[[Obsidian laptop PKM]]"
+facet (of subcategory):
+  - "[[life periods by PKM-device facet]]"
+precise names:
+  - laptop PKM periods
+time recorded (Obsidian): "2025"
+---
+
+|                           | • ...<br>• [[2025-08-11 - AI file processing months\|2025/08-11 - AI file processing months]]<br>• [[2025-02-07 - free weights ___ months\|2025/02-07 - free weights touchpoint training months]]<br>• [[2024-11-2025-01 - cable touchpoint training months\|2024/11-2025/01 - cable touchpoint training months]]<br>• [[2024-08-10 - Obsidian laptop months\|2024/08-10 - Obsidian laptop months]]<br>• [[2023-01-09 - post-Aripiprazole sobering months\|2023/01-09 - post-Aripiprazole sobering months]]<br>• [[2021-2022 - Canberra drug years]]<br>• [[2017-2020 - Clozapine steroid amphetamine years]]<br>• [[2014-2016 - Paliperidone-Risperidone years]]<br>• [[2013-02-05 - street-jail-hospital months\|2013/02-05 - street/jail/hospital months]]*<br>• [[2012-10-2013-01 - laptop months\|2012/10-2013/01 - laptop months]] |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| category (of subcategory) | [[life periods\|life periods]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| facet (of subcategory)    | [[life periods by PKM-device facet]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| precise names             | • "laptop Personal Knowledge Management periods"<br>• "laptop memory offloading/organization periods"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| time recorded (Obsidian)  | 2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+- **provisional description**:
+	- ...
+	- ...
+- **concise description**:
+- **precise description**:
+- **formal description**:
+- **informal description**:
+- **memorable description**:
+- * during some of this time

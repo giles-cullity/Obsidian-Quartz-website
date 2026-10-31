@@ -1,0 +1,23 @@
+---
+subcategories (of facet):
+personal navigation up:
+  - "[[Length Strength increments by other facets]]"
+category (of facet):
+  - "[[Length Strength increments]]"
+  - "[[Length increments]]"
+  - "[[Strength increments]]"
+precise names:
+  - by Length-vs-Strength facet (Length Strength increments)
+time recorded (Obsidian): 2025/12/16/13:53
+---
+
+| personal navigation down | • [[Strength increments]]<br>    • [[male level 4 Strength increments]]<br>    • [[female level 4 Strength increments]]<br>    • [[male level 3 Strength increments]]<br>    • [[female level 3 Strength increments]]<br>    • [[male level 2 Strength increments]]<br>    • [[female level 2 Strength increments]]<br>    • [[male level 1 Strength increments]]<br>    • [[female level 1 Strength increments]]<br>• [[Length increments (personal example)]]<br>    • [[level 4 Length increments (personal example)]]<br>    • [[level 3 Length increments (personal example)]]<br>    • [[level 2 Length increments (personal example)]]<br>    • [[level 1 Length increments (personal example)]] |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| personal navigation up   | [[Length Strength increments by other facets]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| precise names            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| alternative names        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| time recorded (Obsidian) | 2026/08/09/11:15                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+- **provisional description**:
+- **concise description**:
+- **precise description**:
+- **formal description**:

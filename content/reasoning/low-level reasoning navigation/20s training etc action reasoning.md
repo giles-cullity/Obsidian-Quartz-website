@@ -1,0 +1,23 @@
+---
+personal navigation down:
+personal navigation up:
+category (of subcategory):
+facet (of subcategory):
+precise names:
+alternative names:
+time recorded (Obsidian):
+duplicates etc:
+---
+
+| personal navigation down  | • [[29 training etc action reasoning]]<br>• [[28 training etc action reasoning]]<br>• [[27 training etc action reasoning]]<br>• [[26 training etc action reasoning]]<br>• [[25 training etc action reasoning]]<br>• [[24 training etc action reasoning]]<br>• [[23 training etc action reasoning]]<br>• [[22 training etc action reasoning]]<br>• [[21 training etc action reasoning]]<br>• [[20 training etc action reasoning]]<br>• to-be-categorized<br>    • [[training & PEDs 2017-2022 log summary]]<br>• by other facets? |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| personal navigation up    | [[training etc action reasoning]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| category (of subcategory) | [[training etc action reasoning]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| facet (of subcategory)    | [[training etc action reasoning by age-decade facet]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| precise names             | "20s training etc past personal action recollection & conclusions"                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| alternative names         | "20s training volume/completion log"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| time recorded (Obsidian)  | 2026/09/14/11:21                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+- **provisional description**:
+- **concise description**:
+- **precise description**:
+- **formal description**:

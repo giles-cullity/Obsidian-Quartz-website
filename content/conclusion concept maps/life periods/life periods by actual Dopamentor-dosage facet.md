@@ -1,0 +1,29 @@
+---
+subcategories (of facet):
+  - "[[life periods]]"
+  - "[[no Dopamentors]]"
+personal navigation up:
+category (of facet):
+alternative names:
+  - life event by actual dopamine blocker/dosage facet
+aliases:
+  - life event by actual Dopamentor/dosage facet
+time recorded (Obsidian): 2026/01/08/13:28
+---
+
+| subcategories (of facet) | • [[no Dopamentors]]<br>• [[got 300mg Aripiprazole injection]]<br>• [[took 50-0mg Clozapine 300mg Aripiprazole injection]]<br>• [[took 100-75mg Clozapine 300mg Aripiprazole injection]]<br>• [[took 150mg Clozapine 300mg Aripiprazole injection]]<br>• [[took 200mg Clozapine 300mg Aripiprazole injection]]<br>• [[took 250mg Clozapine 300mg Aripiprazole injection]]<br>• [[took 300mg Clozapine 300mg Aripiprazole injection]]<br>• [[took 15mg Aripiprazole]]<br>• [[took 2mg Risperidone]]<br>• [[got 25mg Paliperidone injection]]<br>• [[got 33mg Paliperidone injection]]<br>• [[got 50mg Paliperidone injection]]<br>• [[got 75mg Paliperidone injection]]<br>• [[took no Olanzapine]]<br>• [[sometimes took 15mg Olanzapine]] |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| personal navigation up   | [[life periods by substance use facets]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| category (of facet)      | [[life periods\|life event]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| alternative names        | • "life event by actual dopamine blocker/dosage facet"<br>• "life event by actual 'antipsychotic'/dosage facet"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| aliases                  | "life event by actual Dopamentor/dosage facet"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| time recorded (Obsidian) | 2026/01/08/13:28                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+- **provisional description**:
+	- ...
+	- The "5 years on Clozapine" was really a 5 year Clozapine taper
+	- ...
+- **concise description**:
+- **precise description**:
+- **formal description**:
+- **informal description**:
+- **memorable description**:

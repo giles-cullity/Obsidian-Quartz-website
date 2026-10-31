@@ -1,0 +1,33 @@
+---
+members (of subcategory):
+  - "[[1993-2001 - Scotland childhood years]]"
+  - "[[2001-2010 - Adelaide school years]]"
+  - "[[2010-12-2011-09 - rugby-lifting months]]"
+  - "[[2011-10-2012-02 - post-lifting months]]"
+  - "[[2012-03-09 - uni months]]"
+  - "[[2012-10-2013-01 - laptop months]]"
+  - "[[2013-06-2014-01 - home non-Olanzapine months]]"
+  - "[[2014-2016 - Paliperidone-Risperidone years]]"
+  - "[[2017-2020 - Clozapine steroid amphetamine years]]"
+  - "[[2021-01-06 - Canberra kSafe months]]"
+  - "[[2021-07-12 - new house months]]"
+category (of subcategory):
+facet (of subcategory):
+previous names:
+  - Parent's years
+precise names:
+  - Parent's house period(s)
+alternative names:
+---
+
+| members (of subcategory)  | • [[2021-07-12 - new house months\|2021/07-12 - new house months]]<br>• [[2021-01-06 - Canberra kSafe months\|2021/01-06 - Canberra kSafe months]]<br>• [[2017-2020 - Clozapine steroid amphetamine years]]<br>• [[2014-2016 - Paliperidone-Risperidone years\|2014-2016 - Paliperidone/Risperidone years]]<br>• [[2013-06-2014-01 - home non-Olanzapine months\|2013/06-2014/01 - home non-Olanzapine months]]<br>• ...<br>• [[2012-10-2013-01 - laptop months\|2012/10-2013/01 - laptop months]]<br>• [[2012-03-09 - uni months\|2012/03-09 - uni months]]<br>• [[2011-10-2012-02 - post-lifting months\|2011/10-2012/02 - post-lifting months]]<br>• [[2010-12-2011-09 - rugby-lifting months\|2010/12-2011/09 - rugby/lifting months]]<br>• [[2001-2010 - Adelaide school years]]<br>• [[1993-2001 - Scotland childhood years]] |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| category (of subcategory) | [[life periods\|life periods]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| facet (of subcategory)    | [[life periods by accommodation facet]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| precise names             | "with Parents period"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| alternative names         | "Parent's house"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| time recorded (Obsidian)  | 2025/05/22/17:00                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+- **provisional description**:
+- **concise description**:
+- **precise description**:
+- **formal description**:
