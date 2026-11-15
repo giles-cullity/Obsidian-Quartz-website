@@ -1,0 +1,85 @@
+{
+	"nodes":[
+		{"id":"2598e539efe33c2e","type":"file","file":"notes/decorative notes/high-level decorative navigation notes/structure pictures.md","x":-120,"y":-120,"width":400,"height":400},
+		{"id":"be72e9552f0470f0","type":"file","file":"notes/decorative notes/mid-level decorative navigation notes/industrial sites.md","x":-960,"y":-800,"width":400,"height":400},
+		{"id":"ee79d5b0f6f56620","type":"file","file":"notes/decorative notes/mid-level decorative navigation notes/other infrastructure pictures.md","x":-120,"y":-800,"width":400,"height":400},
+		{"id":"e7fdc115e02a5b6b","type":"file","file":"to-be-reorganized/small vault/exterior architecture.md","x":720,"y":-800,"width":400,"height":400},
+		{"id":"ee9a1062bd863596","type":"file","file":"notes/decorative notes/low-level decorative navigation notes/interior architecture pictures.md","x":1520,"y":-800,"width":400,"height":400},
+		{"id":"24924c49b385f761","type":"file","file":"navigation maps/high-level navigation graphs/decorative content navigation graph (under construction).canvas","x":-1840,"y":-120,"width":400,"height":400},
+		{"id":"ce6b5e568e347d11","type":"file","file":"notes/decorative notes/high-level decorative navigation notes/visual decorative content.md","x":-120,"y":660,"width":400,"height":400},
+		{"id":"4edb118efcc8dfe5","type":"file","file":"notes/high-level navigation notes/decorative content.md","x":-1440,"y":-120,"width":400,"height":400},
+		{"id":"69b5b5fdc0985ad1","type":"file","file":"navigation maps/link color key 2026-08-14.png","x":-3747,"y":-3040,"width":2507,"height":1242}
+	],
+	"edges":[
+		{
+			"id":"d2687c7160bc68f8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"be72e9552f0470f0",
+			"fromSide":"bottom",
+			"toNode":"2598e539efe33c2e",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"0ed409d8cdcaee55",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ee79d5b0f6f56620",
+			"fromSide":"bottom",
+			"toNode":"2598e539efe33c2e",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"d1927a07c6961c95",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e7fdc115e02a5b6b",
+			"fromSide":"bottom",
+			"toNode":"2598e539efe33c2e",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"940bc94dd2f231b8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ee9a1062bd863596",
+			"fromSide":"bottom",
+			"toNode":"2598e539efe33c2e",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"895853a099714f1d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"2598e539efe33c2e",
+			"fromSide":"bottom",
+			"toNode":"4edb118efcc8dfe5",
+			"toSide":"right",
+			"color":"#1f5fff"
+		},
+		{
+			"id":"d6e830f9bf844c7b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"2598e539efe33c2e",
+			"fromSide":"bottom",
+			"toNode":"ce6b5e568e347d11",
+			"toSide":"top",
+			"color":"3"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

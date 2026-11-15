@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"709622f70d094f60","x":-1520,"y":-240,"width":400,"height":400,"type":"file","file":"consideration stage treatment order planning reasoning.md"},
+		{"id":"17116c66a6454915","x":-800,"y":480,"width":400,"height":400,"type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/high-level consideration stage treatment order planning reasoning.md"},
+		{"id":"b861b288370a91d7","x":-800,"y":-1040,"width":400,"height":400,"type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/low-level consideration stage treatment order planning reasoning.md"},
+		{"id":"5ae1a42581b015cb","x":-800,"y":-240,"width":400,"height":400,"type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/mid-level consideration stage treatment order planning reasoning.md"},
+		{"id":"ecd3f37e88f1142a","x":-800,"y":-1840,"width":400,"height":400,"type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/high-level constraint stage treatment order planning reasoning.md"},
+		{"id":"e5511762d2309689","x":-800,"y":-2600,"width":400,"height":400,"type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/mid-level constraint stage treatment order planning reasoning.md"},
+		{"id":"209f4bb1e6163ac7","x":-1520,"y":-2600,"width":400,"height":400,"type":"file","file":"constraint stage treatment order planning reasoning.md"},
+		{"id":"da7a025cfccbd54c","x":-800,"y":-3360,"width":400,"height":400,"type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/low-level constraint stage treatment order planning reasoning.md"},
+		{"id":"22b3f0d957b74a2d","x":-2240,"y":-1440,"width":400,"height":400,"type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/treatment order planning reasoning.md"},
+		{"id":"63ec3e053875cc5a","x":-3840,"y":-1440,"width":400,"height":400,"type":"file","file":"navigation maps/high-level navigation graphs/timespan planning reasoning navigation graph (under construction).canvas"}
+	],
+	"edges":[
+		{"id":"54fe7fd62c44d554","fromNode":"709622f70d094f60","fromSide":"left","toNode":"22b3f0d957b74a2d","toSide":"right","color":"3"},
+		{"id":"766aa3af389353db","fromNode":"209f4bb1e6163ac7","fromSide":"left","toNode":"22b3f0d957b74a2d","toSide":"right","color":"3"},
+		{"id":"b8c1892a758925fc","fromNode":"17116c66a6454915","fromSide":"left","toNode":"709622f70d094f60","toSide":"right","color":"3"},
+		{"id":"8fa9c0d931246a26","fromNode":"b861b288370a91d7","fromSide":"left","toNode":"709622f70d094f60","toSide":"right","color":"3"},
+		{"id":"2a9844eea6270d9a","fromNode":"5ae1a42581b015cb","fromSide":"left","toNode":"709622f70d094f60","toSide":"right","color":"3"},
+		{"id":"47198b65fb88ca5c","fromNode":"ecd3f37e88f1142a","fromSide":"left","toNode":"209f4bb1e6163ac7","toSide":"right","color":"3"},
+		{"id":"121939b997ccd076","fromNode":"e5511762d2309689","fromSide":"left","toNode":"209f4bb1e6163ac7","toSide":"right","color":"3"},
+		{"id":"8ee75d10a4716854","fromNode":"da7a025cfccbd54c","fromSide":"left","toNode":"209f4bb1e6163ac7","toSide":"right","color":"3"},
+		{"id":"ab6398ba714e8d08","fromNode":"22b3f0d957b74a2d","fromSide":"left","toNode":"63ec3e053875cc5a","toSide":"right"}
+	]
+}

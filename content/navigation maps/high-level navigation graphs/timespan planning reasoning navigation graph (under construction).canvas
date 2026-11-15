@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"b76b45921ca7b67c","type":"file","file":"notes/reasoning notes/high-level reasoning navigation notes/timespan planning reasoning.md","x":-57,"y":-146,"width":400,"height":400},
+		{"id":"fed1560f5afd7d2e","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/timespan planning reasoning by condition facet.md","x":1359,"y":1076,"width":400,"height":400},
+		{"id":"aab2f069f40f27d6","type":"file","file":"navigation maps/mid-level navigation graphs/treatment order planning reasoning navigation graph (under construction).canvas","x":2080,"y":1076,"width":400,"height":400},
+		{"id":"a63a6a2141b3afd7","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/timespan planning reasoning by decision facet.md","x":1359,"y":1680,"width":400,"height":400},
+		{"id":"52ec97199fb85a29","type":"file","file":"navigation maps/high-level navigation graphs/high-level navigation graph.canvas","x":-880,"y":-146,"width":400,"height":400},
+		{"id":"96a82afaab5a93d4","type":"file","file":"navigation maps/link color key 2026-08-14.png","x":-880,"y":-2320,"width":3068,"height":1520},
+		{"id":"4fe0e712dd7b663b","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/treatment order planning reasoning.md","x":2480,"y":1076,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"07a1e895202539b2","fromFloating":false,"fromNode":"fed1560f5afd7d2e","fromSide":"left","toNode":"b76b45921ca7b67c","toSide":"right","color":"5"},
+		{"id":"2d73b1c1479d8522","fromFloating":false,"fromNode":"4fe0e712dd7b663b","fromSide":"bottom","toNode":"b76b45921ca7b67c","toSide":"right","color":"3"},
+		{"id":"a0c8b09894ed80b6","fromFloating":false,"toFloating":false,"fromNode":"4fe0e712dd7b663b","fromSide":"bottom","toNode":"fed1560f5afd7d2e","toSide":"right","color":"4"},
+		{"id":"766cee5a6a402492","fromFloating":false,"fromNode":"a63a6a2141b3afd7","fromSide":"left","toNode":"b76b45921ca7b67c","toSide":"right","color":"5"},
+		{"id":"e4dde0f323b54337","toFloating":false,"fromNode":"b76b45921ca7b67c","fromSide":"left","toNode":"52ec97199fb85a29","toSide":"right","color":"#1f5fff"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

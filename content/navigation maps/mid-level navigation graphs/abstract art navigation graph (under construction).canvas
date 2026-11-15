@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"7d8f8c2a1135ab63","type":"file","file":"notes/decorative notes/mid-level decorative navigation notes/abstract art.md","x":-40,"y":-80,"width":400,"height":400},
+		{"id":"ff27f45aced17877","type":"file","file":"notes/decorative notes/high-level decorative navigation notes/visual decorative content.md","x":-40,"y":640,"width":400,"height":400},
+		{"id":"8dae930a6adacbf9","type":"file","file":"notes/high-level navigation notes/decorative content.md","x":-840,"y":-80,"width":400,"height":400},
+		{"id":"4cc7cc43bd203fe6","type":"file","file":"navigation maps/high-level navigation graphs/decorative content navigation graph (under construction).canvas","x":-1240,"y":-80,"width":400,"height":400},
+		{"id":"a32ee6cef0868641","type":"file","file":"navigation maps/link color key 2026-08-14.png","x":-1240,"y":-1920,"width":2507,"height":1242}
+	],
+	"edges":[
+		{
+			"id":"e424e0f7f27ac7a3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"7d8f8c2a1135ab63",
+			"fromSide":"bottom",
+			"toNode":"ff27f45aced17877",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"1785c77cb9408206",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7d8f8c2a1135ab63",
+			"fromSide":"left",
+			"toNode":"8dae930a6adacbf9",
+			"toSide":"right",
+			"color":"#1f5fff"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

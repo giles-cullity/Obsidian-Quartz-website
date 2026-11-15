@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"ac294103b4e12eab","type":"file","file":"notes/decorative notes/high-level decorative navigation notes/fitness (decorative content).md","x":-240,"y":-120,"width":400,"height":400},
+		{"id":"f26cff42346c381b","type":"file","file":"notes/high-level navigation notes/decorative content.md","x":-1080,"y":-120,"width":400,"height":400},
+		{"id":"8b592d8d45680b56","type":"file","file":"navigation maps/high-level navigation graphs/decorative content navigation graph (under construction).canvas","x":-1480,"y":-120,"width":400,"height":400},
+		{"id":"59c723a4447f939e","type":"file","file":"notes/decorative notes/mid-level decorative navigation notes/non-current fitness interest (decorative content).md","x":840,"y":680,"width":400,"height":400},
+		{"id":"8db1ce8b26f63e62","type":"file","file":"navigation maps/link color key 2026-08-14.png","x":-1480,"y":-1920,"width":2507,"height":1242}
+	],
+	"edges":[
+		{
+			"id":"4daefd9cacadbe14",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ac294103b4e12eab",
+			"fromSide":"left",
+			"toNode":"f26cff42346c381b",
+			"toSide":"right",
+			"color":"#1f5fff"
+		},
+		{
+			"id":"e456962a1e72d653",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"59c723a4447f939e",
+			"fromSide":"left",
+			"toNode":"ac294103b4e12eab",
+			"toSide":"right",
+			"color":"3"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"nodes":[
+		{"id":"cc0e4fb412407191","type":"file","file":"notes/decorative notes/high-level decorative navigation notes/music (decorative audio).md","x":-120,"y":300,"width":400,"height":400},
+		{"id":"dd9623c5b8167965","type":"file","file":"notes/high-level navigation notes/decorative content.md","x":-960,"y":300,"width":400,"height":400},
+		{"id":"3d1c4a3515ffd203","type":"file","file":"navigation maps/high-level navigation graphs/decorative content navigation graph (under construction).canvas","x":-1360,"y":300,"width":400,"height":400},
+		{"id":"4096b58fbbc47efb","type":"file","file":"notes/decorative notes/mid-level decorative navigation notes/metal music.md","x":960,"y":1100,"width":400,"height":400},
+		{"id":"2ec2f412b5af9c51","type":"file","file":"navigation maps/link color key 2026-08-14.png","x":-1360,"y":-1500,"width":2507,"height":1242},
+		{"id":"be141cd9fe3c1b33","type":"file","file":"notes/decorative notes/mid-level decorative navigation notes/non-metal music.md","x":1760,"y":1100,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"af6f0d58c95a6f0e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cc0e4fb412407191",
+			"fromSide":"left",
+			"toNode":"dd9623c5b8167965",
+			"toSide":"right",
+			"color":"#1f5fff"
+		},
+		{
+			"id":"010654c792a728c6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4096b58fbbc47efb",
+			"fromSide":"bottom",
+			"toNode":"cc0e4fb412407191",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"54975790b72dfd5e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"be141cd9fe3c1b33",
+			"fromSide":"bottom",
+			"toNode":"cc0e4fb412407191",
+			"toSide":"right",
+			"color":"3"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

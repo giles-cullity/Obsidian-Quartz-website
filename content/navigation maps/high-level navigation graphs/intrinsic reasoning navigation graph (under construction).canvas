@@ -1,0 +1,49 @@
+{
+	"nodes":[
+		{"id":"13c0672730c5b503","type":"file","file":"notes/reasoning notes/high-level reasoning navigation notes/intrinsic value reasoning.md","x":-180,"y":-40,"width":400,"height":400},
+		{"id":"319394c9e2d4aa93","type":"file","file":"notes/high-level navigation notes/set 1 reasoning.md","x":-960,"y":-40,"width":400,"height":400},
+		{"id":"86c8e1527e8791a8","type":"file","file":"navigation maps/mid-level navigation graphs/set 1 reasoning navigation graph (under construction).canvas","x":-1360,"y":-40,"width":400,"height":400},
+		{"id":"a76780c733678692","type":"file","file":"notes/high-level navigation notes/personal home.md","x":-2200,"y":-40,"width":400,"height":400},
+		{"id":"43c5a8c1a0019890","type":"file","file":"navigation maps/high-level navigation graphs/high-level navigation graph.canvas","x":-2600,"y":-40,"width":400,"height":400},
+		{"id":"cd6c556feb33f961","type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/intrinsic value reasoning conclusions.md","x":640,"y":-440,"width":400,"height":400},
+		{"id":"0f8d19f3bf7fd094","type":"file","file":"navigation maps/link color key 2026-08-14.png","x":-2600,"y":-2160,"width":2507,"height":1242}
+	],
+	"edges":[
+		{
+			"id":"afcf4949597cefee",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"13c0672730c5b503",
+			"fromSide":"left",
+			"toNode":"319394c9e2d4aa93",
+			"toSide":"right",
+			"color":"#1f5fff"
+		},
+		{
+			"id":"8e22139cb08d80c9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"86c8e1527e8791a8",
+			"fromSide":"left",
+			"toNode":"a76780c733678692",
+			"toSide":"right",
+			"color":"#1f5fff"
+		},
+		{
+			"id":"723e219db6435a51",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"cd6c556feb33f961",
+			"fromSide":"left",
+			"toNode":"13c0672730c5b503",
+			"toSide":"right",
+			"color":"3"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

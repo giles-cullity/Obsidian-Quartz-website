@@ -1,0 +1,83 @@
+{
+	"nodes":[
+		{"id":"c4cd12628b66950c","type":"file","file":"notes/decorative notes/high-level decorative navigation notes/vehicle etc pictures.md","x":-400,"y":-240,"width":400,"height":400},
+		{"id":"696b7b62a2dec00a","type":"file","file":"notes/decorative notes/high-level decorative navigation notes/car pictures (decorative content).md","x":-400,"y":-1040,"width":400,"height":400},
+		{"id":"c46e3a75c2cbc5a9","type":"file","file":"notes/decorative notes/mid-level decorative navigation notes/motorcycle pictures (decorative content).md","x":-1200,"y":-1040,"width":400,"height":400},
+		{"id":"f1c05e537eb07967","type":"file","file":"notes/decorative notes/mid-level decorative navigation notes/other vehicle pictures.md","x":400,"y":-1040,"width":400,"height":400},
+		{"id":"1f3eae753f25cd99","type":"file","file":"notes/decorative notes/mid-level decorative navigation notes/other machine pictures.md","x":1200,"y":-1040,"width":400,"height":400},
+		{"id":"1797d065e237e737","type":"file","file":"notes/high-level navigation notes/decorative content.md","x":-2800,"y":-1980,"width":400,"height":400},
+		{"id":"a9a1f234e3d780a9","type":"file","file":"navigation maps/high-level navigation graphs/decorative content navigation graph (under construction).canvas","x":-3200,"y":-1980,"width":400,"height":400},
+		{"id":"30ce3137aac325a6","type":"file","file":"notes/decorative notes/high-level decorative navigation notes/visual decorative content.md","x":200,"y":640,"width":400,"height":400},
+		{"id":"83e6d2f30d53b084","type":"file","file":"navigation maps/link color key 2026-08-14.png","x":-3200,"y":-3920,"width":2507,"height":1242}
+	],
+	"edges":[
+		{
+			"id":"cd8d113b3e9d31f9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"c46e3a75c2cbc5a9",
+			"fromSide":"bottom",
+			"toNode":"c4cd12628b66950c",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"5b28ba72a2046298",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"696b7b62a2dec00a",
+			"fromSide":"bottom",
+			"toNode":"c4cd12628b66950c",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"1b161c82ad801b80",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f1c05e537eb07967",
+			"fromSide":"bottom",
+			"toNode":"c4cd12628b66950c",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"0a25b95d7fd85d07",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1f3eae753f25cd99",
+			"fromSide":"bottom",
+			"toNode":"c4cd12628b66950c",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"4825f49a9807159e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c4cd12628b66950c",
+			"fromSide":"bottom",
+			"toNode":"1797d065e237e737",
+			"toSide":"right",
+			"color":"#0000ff"
+		},
+		{
+			"id":"fb47d4034ea646a1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"c4cd12628b66950c",
+			"fromSide":"bottom",
+			"toNode":"30ce3137aac325a6",
+			"toSide":"top",
+			"color":"3"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,304 @@
+{
+	"nodes":[
+		{"id":"e7afcb8794196322","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/Intermap reasoning.md","x":-140,"y":-160,"width":400,"height":400},
+		{"id":"8283db2bae34fed6","type":"file","file":"notes/high-level navigation notes/set 1 reasoning.md","x":-960,"y":-160,"width":400,"height":400},
+		{"id":"b194c7e95c24e273","type":"file","file":"navigation maps/mid-level navigation graphs/set 1 reasoning navigation graph (under construction).canvas","x":-1360,"y":-160,"width":400,"height":400},
+		{"id":"a8c4acfc5ce3e0e3","type":"file","file":"notes/high-level navigation notes/personal home.md","x":-2160,"y":-160,"width":400,"height":400},
+		{"id":"8a0abc5b429292a3","type":"file","file":"navigation maps/high-level navigation graphs/high-level navigation graph.canvas","x":-2560,"y":-160,"width":400,"height":400},
+		{"id":"48af363c50fb38f0","type":"file","file":"navigation maps/link color key 2026-08-14.png","x":-2560,"y":-1840,"width":2507,"height":1242},
+		{"id":"e931c1f6d4935af6","type":"file","file":"constraint stage Intermap reasoning.md","x":800,"y":-880,"width":400,"height":400},
+		{"id":"70dd80d09578cba7","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/low-level constraint stage Intermap reasoning.md","x":1600,"y":-1619,"width":400,"height":400},
+		{"id":"6b9aac78cb079db0","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/mid-level constraint stage Intermap reasoning.md","x":1600,"y":-880,"width":400,"height":400},
+		{"id":"c942d8cb568613dc","type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/high-level constraint stage Intermap reasoning.md","x":1600,"y":-160,"width":400,"height":400},
+		{"id":"4fbd81b2800bd7f4","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/low-level consideration stage Intermap reasoning.md","x":1600,"y":560,"width":400,"height":400},
+		{"id":"6b48fb358ebf0a93","type":"file","file":"consideration stage Intermap reasoning.md","x":800,"y":1280,"width":400,"height":400},
+		{"id":"00fd2764ebf5ee8e","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/mid-level consideration stage Intermap reasoning.md","x":1600,"y":1280,"width":400,"height":400},
+		{"id":"6cf0652f78f9c9cf","type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/high-level consideration stage Intermap reasoning.md","x":1600,"y":2000,"width":400,"height":400},
+		{"id":"8ebe7af3923ca8bf","type":"file","file":"Intermap reasoning by argument-stage facet.md","x":800,"y":2000,"width":400,"height":400},
+		{"id":"6e897e0bef787dbc","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/Intermap reasoning by PKM-base-relation facet.md","x":1600,"y":3600,"width":400,"height":400},
+		{"id":"5d615070035135ce","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/low-level consideration stage PKM reasoning.md","x":4320,"y":560,"width":400,"height":400},
+		{"id":"b5dce07d7b537381","type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/high-level constraint stage PKM reasoning.md","x":4320,"y":-480,"width":400,"height":400},
+		{"id":"8a77b14e33b2622d","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/mid-level constraint stage PKM reasoning.md","x":4320,"y":-1619,"width":400,"height":400},
+		{"id":"99a44d828011bf74","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/low-level constraint stage PKM reasoning.md","x":4320,"y":-2560,"width":400,"height":400},
+		{"id":"71ca4e8336fd3bbc","type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/mid-level consideration stage PKM reasoning.md","x":4320,"y":1600,"width":400,"height":400},
+		{"id":"f53dcf50d0ef1b84","type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/high-level consideration stage PKM reasoning.md","x":4320,"y":2800,"width":400,"height":400},
+		{"id":"91b01da84dc7c7fd","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/decorative PKM reasoning.md","x":3920,"y":3600,"width":400,"height":400},
+		{"id":"2e1cc95740f2535b","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/reasoning PKM reasoning.md","x":4720,"y":3600,"width":400,"height":400},
+		{"id":"967429ad99c9bc0d","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/PKM reasoning.md","x":4320,"y":4320,"width":400,"height":400},
+		{"id":"c850123b4ead0a1d","type":"file","file":"to-be-reorganized/2026-H2/Intermap additions reasoning.md","x":3080,"y":4320,"width":400,"height":400},
+		{"id":"b0ba90ce3fed1d9f","type":"file","file":"notes/reasoning notes/low-level reasoning navigation notes/high-level consideration stage reasoning PKM reasoning.md","x":5120,"y":1200,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"5959df32435943bb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"967429ad99c9bc0d",
+			"fromSide":"bottom",
+			"toNode":"e7afcb8794196322",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"31a770835805de60",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c850123b4ead0a1d",
+			"fromSide":"bottom",
+			"toNode":"e7afcb8794196322",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"208e7f0cd4f68fcd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e7afcb8794196322",
+			"fromSide":"left",
+			"toNode":"8283db2bae34fed6",
+			"toSide":"right",
+			"color":"#1f5fff"
+		},
+		{
+			"id":"10348f95675579e4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b194c7e95c24e273",
+			"fromSide":"left",
+			"toNode":"a8c4acfc5ce3e0e3",
+			"toSide":"right",
+			"color":"#1f5fff"
+		},
+		{
+			"id":"19a403881f9e4718",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6e897e0bef787dbc",
+			"fromSide":"left",
+			"toNode":"e7afcb8794196322",
+			"toSide":"right",
+			"color":"5"
+		},
+		{
+			"id":"5b88481549778ff7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"967429ad99c9bc0d",
+			"fromSide":"bottom",
+			"toNode":"6e897e0bef787dbc",
+			"toSide":"right",
+			"color":"4"
+		},
+		{
+			"id":"c37f31191d3f76c2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"c850123b4ead0a1d",
+			"fromSide":"bottom",
+			"toNode":"6e897e0bef787dbc",
+			"toSide":"right",
+			"color":"4"
+		},
+		{
+			"id":"52d565f9d4ef9f9b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2e1cc95740f2535b",
+			"fromSide":"bottom",
+			"toNode":"967429ad99c9bc0d",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"caf0200168bec857",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"91b01da84dc7c7fd",
+			"fromSide":"bottom",
+			"toNode":"967429ad99c9bc0d",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"a6c3398ad570f55a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e931c1f6d4935af6",
+			"fromSide":"left",
+			"toNode":"e7afcb8794196322",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"db5037716145f9b2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6b48fb358ebf0a93",
+			"fromSide":"left",
+			"toNode":"e7afcb8794196322",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"c959bed50c446d1d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8ebe7af3923ca8bf",
+			"fromSide":"bottom",
+			"toNode":"e7afcb8794196322",
+			"toSide":"right",
+			"color":"5"
+		},
+		{
+			"id":"ade5a2d80ee8f0b3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6b48fb358ebf0a93",
+			"fromSide":"left",
+			"toNode":"8ebe7af3923ca8bf",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"af69f5949a6ff0bd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e931c1f6d4935af6",
+			"fromSide":"left",
+			"toNode":"8ebe7af3923ca8bf",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"9a7a6dc8837e7af4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"70dd80d09578cba7",
+			"fromSide":"left",
+			"toNode":"e931c1f6d4935af6",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"6318444f3348a07b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6b9aac78cb079db0",
+			"fromSide":"left",
+			"toNode":"e931c1f6d4935af6",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"fc3878be4e0b84f4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c942d8cb568613dc",
+			"fromSide":"left",
+			"toNode":"e931c1f6d4935af6",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"6ad5314140249283",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4fbd81b2800bd7f4",
+			"fromSide":"left",
+			"toNode":"6b48fb358ebf0a93",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"84364183de63c771",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"00fd2764ebf5ee8e",
+			"fromSide":"left",
+			"toNode":"6b48fb358ebf0a93",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"345161d58ac87cb5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6cf0652f78f9c9cf",
+			"fromSide":"left",
+			"toNode":"6b48fb358ebf0a93",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"697213c9b23fed8e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b5dce07d7b537381",
+			"fromSide":"bottom",
+			"toNode":"c942d8cb568613dc",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"cf15dd289ea3588f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f53dcf50d0ef1b84",
+			"fromSide":"bottom",
+			"toNode":"6cf0652f78f9c9cf",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"9499836b5e337100",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8a77b14e33b2622d",
+			"fromSide":"bottom",
+			"toNode":"6b9aac78cb079db0",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"d601e41ebeb56427",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99a44d828011bf74",
+			"fromSide":"bottom",
+			"toNode":"70dd80d09578cba7",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"a424d043ee5efe39",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"71ca4e8336fd3bbc",
+			"fromSide":"bottom",
+			"toNode":"00fd2764ebf5ee8e",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"e75ee3a13f46a38a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d615070035135ce",
+			"fromSide":"bottom",
+			"toNode":"4fbd81b2800bd7f4",
+			"toSide":"right",
+			"color":"3"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"nodes":[
+		{"id":"f2bd26d3d8d17c5d","type":"file","file":"notes/reasoning notes/high-level reasoning navigation notes/modelling reasoning.md","x":-480,"y":-240,"width":400,"height":400},
+		{"id":"ec22a363d3d6d145","type":"file","file":"notes/reasoning notes/high-level reasoning navigation notes/undirected reasoning.md","x":-1360,"y":-640,"width":400,"height":400},
+		{"id":"e896e064b6b905aa","type":"file","file":"notes/reasoning notes/high-level reasoning navigation notes/correlation stage reasoning.md","x":320,"y":-640,"width":400,"height":400},
+		{"id":"065e7f18b3335aad","type":"file","file":"notes/reasoning notes/mid-level reasoning navigation notes/non-academic correlation stage reasoning.md","x":1120,"y":-640,"width":400,"height":400},
+		{"id":"1860022b0f8fdde0","type":"file","file":"to-be-reorganized/2026-H2/academic correlation stage reasoning (provisional).md","x":1920,"y":-640,"width":400,"height":400},
+		{"id":"0ab58096a726d934","type":"file","file":"notes/high-level navigation notes/main reasoning.md","x":-2160,"y":-1040,"width":400,"height":400},
+		{"id":"ecd6b8a603799ccb","type":"file","file":"navigation maps/link color key 2026-08-14.png","x":-2160,"y":-3120,"width":3068,"height":1520},
+		{"id":"a0b8181a8bb95c39","type":"file","file":"notes/high-level navigation notes/personal home.md","x":-4320,"y":-1040,"width":400,"height":400},
+		{"id":"64b9b83280cf9d48","type":"file","file":"navigation maps/mid-level navigation graphs/set 1 reasoning navigation graph (under construction).canvas","x":-3440,"y":-1040,"width":400,"height":400},
+		{"id":"bb07ce712353fa15","type":"file","file":"notes/high-level navigation notes/set 1 reasoning.md","x":-3040,"y":-1040,"width":400,"height":400},
+		{"id":"440eb8f3123dea25","type":"file","file":"navigation maps/high-level navigation graphs/high-level navigation graph.canvas","x":-4720,"y":-1040,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"28e9c5fa68e9e780",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e896e064b6b905aa",
+			"fromSide":"left",
+			"toNode":"f2bd26d3d8d17c5d",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"5febf6b08c8cc94c",
+			"styleAttributes":{"path":"long-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"065e7f18b3335aad",
+			"fromSide":"bottom",
+			"toNode":"e896e064b6b905aa",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"fd93c43c76eb4e0c",
+			"styleAttributes":{"path":"long-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1860022b0f8fdde0",
+			"fromSide":"bottom",
+			"toNode":"e896e064b6b905aa",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"304f2fb8eaecb50e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f2bd26d3d8d17c5d",
+			"fromSide":"left",
+			"toNode":"ec22a363d3d6d145",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"8672b825bdfff4ac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ec22a363d3d6d145",
+			"fromSide":"left",
+			"toNode":"0ab58096a726d934",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"3debf5e6045a2fe0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"64b9b83280cf9d48",
+			"fromSide":"left",
+			"toNode":"a0b8181a8bb95c39",
+			"toSide":"right",
+			"color":"#0000ff"
+		},
+		{
+			"id":"897f9e82aff641ea",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0ab58096a726d934",
+			"fromSide":"left",
+			"toNode":"bb07ce712353fa15",
+			"toSide":"right",
+			"color":"#0000ff"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
